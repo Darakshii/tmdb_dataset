@@ -1,6 +1,6 @@
 # TMDB_Movies_dataset
 Exploring Cinematic Insights: Unveiling Movie Data through TMDB API Integration
-
+![tmdb](https://github.com/Darakshii/tmdb_dataset/assets/130299461/20b2ee19-5b90-4a59-9eb5-6fb437d0cd02)
 
 
 The project centered around an intricate process of data gathering and the methodical creation of a comprehensive movie dataset sourced from the TMDB platform. By harnessing the capabilities of the TMDB API, an expansive collection of movie-related information was systematically aggregated, comprising vital details such as movie titles, genres, release dates, ratings, cast information, and more.
