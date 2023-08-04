@@ -1,5 +1,5 @@
 # TMDB_Movies_dataset
-## *Exploring Cinematic Insights: Unveiling Movie Data through TMDB API Integration
+## Exploring Cinematic Insights: Unveiling Movie Data through TMDB API Integration
 ![tmdb](https://github.com/Darakshii/tmdb_dataset/assets/130299461/20b2ee19-5b90-4a59-9eb5-6fb437d0cd02)
 
 
